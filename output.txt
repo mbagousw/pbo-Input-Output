@@ -1,0 +1,9 @@
+============Struk Pembayaran=============
+Nama Pelanggan: bagas
+Alamat : null
+No Hp : 123456
+--------------------
+total bayar untuk sewa 
+Harga: 3
+Lama sewa : 2
+total: 6.0
